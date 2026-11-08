@@ -1,0 +1,6 @@
+Prscrbr_NPI,Prscrbr_Last_Org_Name,Prscrbr_First_Name,Prscrbr_City,Prscrbr_State_Abrvtn,Prscrbr_State_FIPS,Prscrbr_Type,Prscrbr_Type_Src,Brnd_Name,Gnrc_Name,Tot_Clms,Tot_30day_Fills,Tot_Day_Suply,Tot_Drug_Cst,Tot_Benes,GE65_Sprsn_Flag,GE65_Tot_Clms,GE65_Tot_30day_Fills,GE65_Tot_Drug_Cst,GE65_Tot_Day_Suply,GE65_Bene_Sprsn_Flag,GE65_Tot_Benes
+1003000126,Enkeshafi,Ardalan,Bethesda,MD,24,Internal Medicine,Claim-Specialty,Abrysvo,"Rsv Vacc, Pref A And Pref B/Pf",20,20,20,5994.01,20,,20,20,5994.01,20,,20
+1003000126,Enkeshafi,Ardalan,Bethesda,MD,24,Internal Medicine,Claim-Specialty,Boostrix Tdap,"Diphth,pertuss(Acell),tet Vac",12,12,12,648.26,12,,12,12,648.26,12,,12
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Acetaminophen-Codeine,Acetaminophen With Codeine,24,24,628,362.48,11,#,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Amitriptyline Hcl,Amitriptyline Hcl,47,47,1410,271.17,16,,30,30,150.18,900,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Baclofen,Baclofen,47,47,1395,333.35,26,,33,33,222.14,975,#,
